@@ -5,7 +5,17 @@ Penso que nada me define mais que essa expressão. Ávido por conhecimento e von
 
 Falando em 'tecniquês', sou um mero marinho de primeira viagem. Já estudei sobre Python e C (formação básica. Entendo suas nuances, mas não tenho ainda um especialização de bibliotecas ou experiência com projetos maiores), estou estudando JavaScript - pelo Programa trainee da TITAN. Ah, esqueci de citar isso, sou trainee da TITAN 🥱🤫😜 -, C++ e Python. Busco entender, cada vez mais, sobre esse mundo da programação e me tornar a cada dia um desenvolvedor melhor que o de ontem. Sinto que é só uma questão de tempo até alcançar a excelência, aliás, ela é trivial, nada mais que fazer a mesma coisa todos os dias.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohpmsdev)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=pedrohpmsdev&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: darkula)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=pedrohpmsdev&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrohpmsdev&show_icons=true" />
+</picture>
 
 
 ## "E aqueles que foram vistos dançando foram julgados insanos por aqueles que não podiam escutar a música."
