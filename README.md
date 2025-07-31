@@ -24,7 +24,8 @@ Falando em 'tecniquês', sou um mero marinho de primeira viagem. Já estudei sob
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="vertical-align:middle;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40" style="vertical-align:middle; margin-left:8px;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" style="vertical-align:middle; margin-left:8px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="vertical-align:middle;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40" style="vertical-align:middle; margin-left:8px;"/> <img 
+                                                                                                                                                                                                               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="Typescript" width="40" height="40" style="vertical-align:middle; margin-left:8px;"/> <img                                                                                                                                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" style="vertical-align:middle; margin-left:8px;"/>
 
 <a href="mailto:pedrokhpms@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28" style="vertical-align:middle;" />
