@@ -1,4 +1,4 @@
-## Opa, eu sou Pedro (famigerado Pedão)!
+## Olá, meu nome é Pedro!
 
 ## "Eterno aprendiz."
 Penso que nada me define mais que essa expressão. Ávido por conhecimento e vontade de entender tudo, busco sempre aprender sobre novos tópicos que não necessariamente tenham relação um com o outro - e aí está a graça do aprendizado, aprender JavaScript enquanto leio sobre a biografia de Einstein e vejo documentários sobre pinguins. Em um universo tão vasto e repleto de mistérios para se desbravar, acho uma perda de tempo não focar nossos olhos para eles. E tenho a nítida impressão de que foi essa busca por novidades que me fez adentrar no mundo da programação. 
